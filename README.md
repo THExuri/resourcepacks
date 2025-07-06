@@ -1,2 +1,0 @@
-# resourcepacks
-1
